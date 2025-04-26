@@ -6,7 +6,7 @@ function Activities() {
           "Proposed AI-based solutions to enhance communication of government schemes in rural areas.",
       },
       {
-        title: "Innotech'24 at KIET Group of Institutions",
+        title: "Participation in Innotech'24 at KIET Group of Institutions",
         description:
           "Developed a craft e-commerce website to empower artisans to sell their original creations.",
       },
